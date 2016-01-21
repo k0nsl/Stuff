@@ -27,10 +27,11 @@ $reload = $last_time + 66 - time();
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <!-- Optional theme -->
 <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<!-- jQuery v2.2.0 -->
+<script src="js/jquery.min.js"></script>
 <!-- Latest compiled and minified JavaScript -->
 <script src="js/bootstrap.min.js"></script>
 
-<script src="js/jquery.min.js"></script>
 <script src="js/highcharts.js"></script>
 <title>Traffic</title>
 <script> 
